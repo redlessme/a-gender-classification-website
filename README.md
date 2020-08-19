@@ -8,6 +8,7 @@ This project is just used to practice integrating flask technique and ML model a
 ## link 
 Google Cloud based(faster)
 https://angular-radar-283711.ts.r.appspot.com/
+
 Ali Cloud based
 http://8.210.3.198/
 ### pipeline
