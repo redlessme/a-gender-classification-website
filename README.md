@@ -24,6 +24,9 @@ ssd for detection
 pca and svm for classification
 
 ### some results
+---
 ![alt text](images/1.png)
+---
 ![alt text](images/2.png)
+---
 
