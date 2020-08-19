@@ -15,7 +15,7 @@ http://8.210.3.198/
 ---
 
 <p align="center">
-<img src="images/pipeline.jpg">
+<img src="images/pipeline.png">
 </p>
 
 ---
