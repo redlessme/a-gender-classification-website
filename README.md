@@ -1,12 +1,21 @@
 # gender-classification website
-
+This project is just used to practice integrating flask technique and ML model and for fun, classification accuracy for non-frontal face cannot be guaranteed.
 ## Dependency
+- python
+- flask
+- javascript
+- html/css
+## link 
+Google Cloud based(faster)
+https://angular-radar-283711.ts.r.appspot.com/
+Ali Cloud based
+http://8.210.3.198/
+### pipeline
 
-### User Interaction
+![alt text](images/pipeline.png)
+ssd for detection,pca and svm for classification
 
-![alt text](images/grab.png)
-User can grab a wand each hand to select the node. It is easy to choose as the logic is toggleEnter which means user can hover the points and then it will be chosen. There is a window to show the details of target facility near the wand.
+### some results
+![alt text](images/1.png)
+![alt text](images/2.png)
 
-### User Interaction
-![alt text](images/grab.png)
-User can grab a wand each hand to select the node. It is easy to choose as the logic is toggleEnter which means user can hover the points and then it will be chosen. There is a window to show the details of target facility near the wand.
