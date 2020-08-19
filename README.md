@@ -12,9 +12,13 @@ https://angular-radar-283711.ts.r.appspot.com/
 Ali Cloud based
 http://8.210.3.198/
 ### pipeline
+---
+
 <p align="center">
-![alt text](images/pipeline.png)
+<img src="./img/pipeline.jpg">
 </p>
+
+---
 ssd for detection
 
 pca and svm for classification
