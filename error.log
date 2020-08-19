@@ -1,0 +1,7 @@
+[2020-07-20 22:33:28 +1000] [80776] [INFO] Starting gunicorn 20.0.4
+[2020-07-20 22:33:28 +1000] [80776] [ERROR] Retrying in 1 second.
+[2020-07-20 22:33:29 +1000] [80776] [ERROR] Retrying in 1 second.
+[2020-07-20 22:33:30 +1000] [80776] [ERROR] Retrying in 1 second.
+[2020-07-20 22:33:31 +1000] [80776] [ERROR] Retrying in 1 second.
+[2020-07-20 22:33:32 +1000] [80776] [ERROR] Retrying in 1 second.
+[2020-07-20 22:33:33 +1000] [80776] [ERROR] Can't connect to ('127.0.0.1.5000', 8000)
