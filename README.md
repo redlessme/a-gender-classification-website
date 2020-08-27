@@ -1,4 +1,4 @@
-# gender-classification website
+# face-detection-and-gender-classification-website
 This project is just used to practice integrating flask technique and ML model and for fun, classification accuracy for non-frontal face cannot be guaranteed.
 ## Dependency
 - python
